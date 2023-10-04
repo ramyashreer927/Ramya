@@ -1,0 +1,13 @@
+In this command:
+
+{print length} is the awk action. It prints the length of each line.
+
+filename should be replaced with the name of the file you want to process.
+
+When you run this command, it will display the length (number of characters) of each line in the specified file.
+
+
+
+
+
+
