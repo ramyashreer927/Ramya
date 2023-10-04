@@ -403,3 +403,71 @@ wc -L myfile.txt
 clear
 eval $(ssh-agent -s)
 ssh-add ~/.ssh/id_rsa
+history
+clear
+git remote add origin git@github.com:ramyashreer927/Ramya.git
+git branch devops7
+git branch devops
+git branch shree
+clear
+git branch shree
+git branch batch7
+git add .
+ls
+git commit -m "first commit"
+git branch devops7
+git init
+git add .
+ls
+git commit
+[5:13 pm, 04/10/2023] +91 79755 90229: first add and commit changes in your local repo
+git config --global user.email@"ramyashreer927@gmail.com"
+git config --global user.name"ramya"
+git commit " first commit"
+git commit -m " first commit"
+clear
+git config --global user.name "ramya"
+git init
+git add .
+touch f1 f2 f3
+git commit -m "First commit"~
+git config --global user.email "ramyashreer927@gamilcom"
+git config --global user.name "ramya"
+git init
+ls
+git branch
+clear
+git config --global user.email "ramyashreer927@gamilco
+
+git config --global user.email "ramyashreer927@gmail.com"\
+git config --global user.name "ramya"
+ssh-keygen -t rsa -b 4096 -C "ramyashreer@gmail.com"
+cd /home/ramya/.ssh
+ls
+cat id_rsa.pub 
+clear
+git init
+git add .
+ls
+cd ..
+git add .
+git init
+git add .
+ls
+git commit -m "first commit"
+eval $(ssh-agent -s)
+ssh-add ~/.ssh/id_rsa
+git remote add origin git@github.com:ramyashreer927/Ramya.git
+git branch devops7
+git branch
+git checkout -b devopsabc
+git branch
+git push -u origin devops
+git checkout devops
+git branch
+git checkout devops7
+git push -u origin devops
+git push -u origin devops7
+git pull origin devops7
+git commit -m "second commit"
+git commit -a
