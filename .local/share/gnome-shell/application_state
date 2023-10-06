@@ -2,6 +2,6 @@
 <application-state>
   <context id="">
     <application id="gnome-initial-setup.desktop" score="2" last-seen="1696212918"/>
-    <application id="org.gnome.Terminal.desktop" score="0" last-seen="1696212922"/>
+    <application id="org.gnome.Terminal.desktop" score="1584" last-seen="1696422501"/>
   </context>
 </application-state>

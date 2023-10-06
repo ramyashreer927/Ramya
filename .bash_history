@@ -471,3 +471,13 @@ git push -u origin devops7
 git pull origin devops7
 git commit -m "second commit"
 git commit -a
+git commit -m "second"
+ls
+git add .
+git commit -m "second"
+git push -u origin devops7
+git pull origin devops7
+git log
+gi clone https://github.com/ramyashreer927/Ramya.git
+git clone https://github.com/ramyashreer927/Ramya.git
+ls
