@@ -3,5 +3,5 @@
 # ibus session bus with the below address.
 # If the IBUS_ADDRESS environment variable is set, it will
 # be used rather than this file.
-IBUS_ADDRESS=unix:abstract=/home/ramya/.cache/ibus/dbus-0PqiTALV,guid=ba8121a8c987c78db34f06d6651ff3c5
-IBUS_DAEMON_PID=1841
+IBUS_ADDRESS=unix:abstract=/home/ramya/.cache/ibus/dbus-vaGuKsSa,guid=9d9607237c8ae9d9afedb7e965213118
+IBUS_DAEMON_PID=1750

@@ -481,3 +481,146 @@ git log
 gi clone https://github.com/ramyashreer927/Ramya.git
 git clone https://github.com/ramyashreer927/Ramya.git
 ls
+git branch
+ls
+git branch -d devops7
+git branch -D devops7
+pwd
+git branch -d devopsabc 
+ls
+git branch
+git branch -D devops7
+git push origin --delete devopsabc
+clear
+touch f1 f2
+ls
+git add f1 f2
+git commit -m "adding f1 and f2"
+git branch
+git pull -u origin
+git pull origin
+ls
+git commit -m "adding f1 and f2"
+git add .
+clear
+git init
+ls
+git add f1 f2
+git commit -m "adding f1 and f2"
+git remote add origin git@github.com:ramyashreer927/Ramya.git
+git branch dev
+git branch
+git branch test
+git branch
+git checkout dev
+git checkout -b prod
+git status
+git push -u origin devops7
+git pull origin devops7
+git branch
+git switch devops7
+git log
+git diff devops7
+git fetch
+git merge
+clear
+touch conflictfile
+git add conflictfile 
+git comment -m "adding conflict file"
+git commit -m "adding conflict file"
+git push -u origin devops7 
+vi conflictfile 
+git pull origin devops7 
+git push -u origin devops7 
+git pull origin devops7 
+git merge devops7
+git pull origin devops7 
+git commit -m "changes in conflict file"
+git add conflictfile 
+git commit -m "changes in conflict file"
+git push -u origin devops7 
+git branch
+git pull origin devops7 
+vi conflictfile
+git add conflictfile 
+git commit -m "conflict file resolved"
+git push -u origin devops7 
+git logs
+git log
+git revert 
+git revert 146e2b37bd568f611de0655eedf3919a8b4f6b47
+touch add ck
+git add ck
+git commit -m "revert file"
+git push -u origin devops7
+git log
+git log -n 1
+git revert 22be1cfd17aa7d5eb13d70e51de328666ff68a0e
+git log -oneline
+git log --oneline
+git log --oneline devops7
+clear
+git tag tag1
+git tag
+git tag tag2 -m "annotated tag"
+git push origin tag1
+git push origin tag2
+git log -1
+git cherry-pick b9c7128277a18f61b57539d6eeb98e9c120c5f1c
+git commit --allow-empty
+git cherry-pick b9c7128277a18f61b57539d6eeb98e9c120c5f1c
+git cherry-pick --skip
+git cherry-pick b9c7128277a18f61b57539d6eeb98e9c120c5f1c
+git push origin devops7
+git cherry-pick b9c7128277a18f61b57539d6eeb98e9c120c5f1c
+git checkout devops7
+git cherry-pick b9c7128277a18f61b57539d6eeb98e9c120c5f1c
+git switch dev
+git cherry-pick --quit
+git switch dev
+git cherry-pick b9c7128277a18f61b57539d6eeb98e9c120c5f1c
+clear
+touch cherryfile
+git add cherryfile 
+git commit "cherry file"
+git cherry-pick --quit
+git commit "cherry file"
+git log -1
+git cherry-pick 8d9aa562bf9982fdc2591e7fc71a1ea7d834b236
+git commit "cherry file"
+git commit -m "cherry file"
+git cherry-pick 8d9aa562bf9982fdc2591e7fc71a1ea7d834b236
+git cherry-pick --continue
+git switch devops7 
+git cherry-pick --continue
+git switch devops7
+git cherry-pick --continue
+git cherry-pick --abort
+git switch devops7
+clear
+git status
+git commit -m "cheery-pick modification"
+ls
+git add conflictfile 
+git commit -m "cherry-pick modification"
+git commit -a -m "cherry-pick modification"
+git push origin devops7
+git log -1
+git switch dev
+git cherry-pick git cherry-pick --abort
+git cherry-pick 81538479a84cc2f4e4b9f0bf8a1a5c47eb8f86ec
+git add .
+git commit -m "commiting"
+git stash
+git cherry-pick 81538479a84cc2f4e4b9f0bf8a1a5c47eb8f86ec
+clear
+touch cheeryfile2
+git commit -m "commiting cheeryfile2"
+git merge devops7
+git merge
+git add .
+git commit -m "commiting cheeryfile2"
+git push origin devops7
+git log -1
+git switch prod
+git cherry-pick 81538479a84cc2f4e4b9f0bf8a1a5c47eb8f86ec
