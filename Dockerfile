@@ -5,7 +5,7 @@ RUN mkdir /usr/local/tomcat
 RUN cd /usr/local/
 RUN wget https://archive.apache.org/dist/tomcat/tomcat-9/v9.0.50/bin/apache-tomcat-9.0.50.tar.gz
 RUN tar -xvfz apache-tomcat-9.0.50.tar.gz
-RUN cp -rf /apache-tomcat-9.0.76/* /usr/local/tomcat/
+RUN cp -rf /apache-tomcat-9.0.50/* /usr/local/tomcat/
 WORKDIR /usr/local/tomcat
 COPY Amazon.war /usr/local/tomcat/webapps/
 EXPOSE 8080
